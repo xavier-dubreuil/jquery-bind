@@ -1,0 +1,15 @@
+{
+  "name": "jquery-bind",
+  "repo": "components/jquery-bind",
+  "version": "0.0.1",
+  "description": "jQuery bind component",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "main": "jquery-bind.js",
+  "scripts": [
+    "jquery-bind.js"
+  ],
+  "license": ""
+}

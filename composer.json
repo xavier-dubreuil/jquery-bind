@@ -1,0 +1,22 @@
+{
+  "name": "components/jquery-bind",
+  "description": "jQuery Bind Library",
+  "type": "component",
+  "license": "",
+  "authors": [
+    {
+      "name": "Xavier DUBREUIL",
+      "email": "xav.dubreuil@gmail.com"
+    }
+  ],
+  "extra": {
+    "component": {
+      "scripts": [
+        "jquery-bind.js"
+      ],
+      "files": [
+        "jquery-bind.min.js"
+      ]
+    }
+  }
+}

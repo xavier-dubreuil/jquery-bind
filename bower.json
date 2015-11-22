@@ -1,0 +1,11 @@
+{
+  "name": "jquery-bind",
+  "version": "0.0.1",
+  "description": "jQuery bin component",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "main": "jquery-bind.js",
+  "license": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "jquery-bind",
+  "description": "JavaScript Bind library",
+  "version": "0.0.1",
+  "author": {
+    "name": "Xavier DUBREUIL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xavier-dubreuil/jquery-bind.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "spm": {
+    "main": "jquery-bind.js"
+  }
+}
